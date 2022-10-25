@@ -22,7 +22,7 @@ We provide the [download link](https://drive.google.com/drive/folders/1Mu9QdnM5W
 
 
 ## Acknowledgements
-[LoFTR](https://github.com/zju3dv/LoFTR)
-[SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork)
-[pidinet](https://github.com/zhuoinoulu/pidinet)
-[PointDSC](https://github.com/XuyangBai/PointDSC)
+- [LoFTR](https://github.com/zju3dv/LoFTR)  
+- [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork)
+- [pidinet](https://github.com/zhuoinoulu/pidinet)
+- [PointDSC](https://github.com/XuyangBai/PointDSC)
