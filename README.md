@@ -11,7 +11,7 @@ Template matching is a fundamental task in computer vision and has been studied 
 ## Introduction
 we propose an accurate template matching method based on differentiable coarse-to-fine correspondence refinement. Considering the domain gap between the mask template and the grayscale image, we leverage an edge-aware module to eliminate the difference for robust matching. Based on coarse correspondences with novel structure-aware information by transformers, an initial warping transformation is estimated and performed as a preliminary result. After the initial alignment, we execute a refinement network on reference and aligned images to obtain sub-pixel level correspondences and thus obtain the final geometric transformation. 
 
-![image](https://github.com/zhirui-gao/Deep-Template-Matching/blob/demos/teaser.png)
+![image](https://github.com/zhirui-gao/Deep-Template-Matching/teaser.png)
 
 
 ## Installation
