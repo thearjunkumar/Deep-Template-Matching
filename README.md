@@ -121,10 +121,10 @@ Synthetic_test.py:
 
 ### Single-object demo
 
-![Output sample](https://github.com/zhirui-gao/Deep-Template-Matching/blob/demos/single_object.gif)
+![Output sample](https://github.com/zhirui-gao/Deep-Template-Matching/single_object.gif)
 
 ### Multi-objects demo
-![s](https://github.com/zhirui-gao/Deep-Template-Matching/blob/demos/multi_object.gif)
+![s](https://github.com/zhirui-gao/Deep-Template-Matching/multi_object.gif)
 
 
 ## Acknowledgements
