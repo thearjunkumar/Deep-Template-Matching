@@ -30,6 +30,8 @@ We provide the datasets used in our paper. [Download link](https://drive.google.
 ### Match image pairs
 
 An example is ```given in notebooks/demo_single_pair.ipynb```.
+The pretraind weight is [here](https://drive.google.com/file/d/1__Az9VqbLy28TAosnHpNJJLrQEGQ4pAJ/view?usp=drive_link)
+
 
 ## Training(```./train.py```  or  ```./scripts/train.sh```)
 
